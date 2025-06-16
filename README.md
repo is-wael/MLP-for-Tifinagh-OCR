@@ -78,4 +78,4 @@ The training and validation curves show smooth convergence with a minimal gap, i
 ### Confusion Matrix
 The confusion matrix for the test set shows a strong diagonal, confirming high accuracy across most classes. Minor confusions occur between visually similar characters.
 
-![Confusion Matrix](assets-confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.png)
