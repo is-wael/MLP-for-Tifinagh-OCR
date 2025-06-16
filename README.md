@@ -73,7 +73,7 @@ The final model, trained with the best-found hyperparameters, demonstrates stron
 ### Learning Curves
 The training and validation curves show smooth convergence with a minimal gap, indicating that the model learns effectively without overfitting.
 
-![Loss and Accuracy Curves](assets/loss_and_accuracy_curves.png)
+![Loss and Accuracy Curves](results/loss_accuracy_curves.png)
 
 ### Confusion Matrix
 The confusion matrix for the test set shows a strong diagonal, confirming high accuracy across most classes. Minor confusions occur between visually similar characters.
